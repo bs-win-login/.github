@@ -1,6 +1,6 @@
-# 🎮 BS Win - Login & Register
+# 🎮 BS Win Login
 
-​BS Win is a popular online gaming platform in India, offering a variety of games such as color prediction, Rummy, Poker, and more. , this guide will assist you in getting started with login, registration, and app download.
+​BS Win is a popular online gaming platform in India, offering a variety of games such as color prediction, Rummy, Poker, and more. , this guide will assist you in getting started with BS Win login
 
 ---
 
